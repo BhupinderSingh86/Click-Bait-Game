@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Mole Click Bait Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was inspired by myself as a click bait to practice more on some basics of Vanilla JavaScript, CSS, HTML & Styled components. Prior to this I had never worked with Styled components library, I never knew what Styled components were or how to use them. Furthermore I learned to use setInterval as a counter, whilst this is possible to do with an external library available I wanted a reason to use and play with setInterval.
 
-## Available Scripts
+# Main Learning Points:
 
-In the project directory, you can run:
+-   React components automatically re-render whenever there is a change in state or props
+-   Console.log everything! Time wasted not doing this is invaluable.
+-   Using Styled components library rather than CSS file on REACT to relocate the image every time clicked.
+-   Working with functions and calling functions within functions.
+-   Creating a timer with setInterval, although not best practice to make a timer on REACT this gave me a reason to use and toy around with setInterval.
+-   learning to create animation and key frames to make components interactive.
+-   Getting use to using the REACT programming Dev tool located on the browser.
+-   Learning further how REACT components work / The relationship between the DOM, CSS, JSX & JavaScript
 
-### `npm start`
+I'm sure there are lots of improvements and learning to do around the above topics but I found working with them so much fun and it was great to learn more new things to add to my arsenal!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Built with
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- REACT
+- Vanilla JavaScript
+- CSS
+- JSX
+- Styled components
 
-### `npm test`
+# Getting Started:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone the repo as instructed below
 
-### `npm run build`
+# Prerequisites:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Download and install npm modules
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1.  Clone the repo
 
-### `npm run eject`
+git clone https://github.com/BhupinderSingh86/Click-Bait-Game.git
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2.  Install the required npm modules
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+npm i
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3.  Start the application
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+npm start
+OR Click on the link below if you want to go play the game!
 
-## Learn More
+https://moleclickbait.netlify.app/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![CB2](https://user-images.githubusercontent.com/100348736/190513824-66d15325-3a37-4920-9793-7f3070e7af5a.png)
 
-### Code Splitting
+# Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Play a click bait game! 😉
