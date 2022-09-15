@@ -1,0 +1,5 @@
+body {
+        background-image: url(grassBG.jpg);
+        background-size: 150px;
+        overflow-x: hidden;
+    }
