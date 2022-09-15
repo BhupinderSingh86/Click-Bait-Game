@@ -1,4 +1,3 @@
-import Button from '../Button/Button';
 import Mole from '../Mole/Mole';
 import "./App.css";
 
